@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Karan
+- I’m interested in all things software
+- I’m currently looking for a remote job ...
+- 📫 Please email me at enchantscript@pm.me
